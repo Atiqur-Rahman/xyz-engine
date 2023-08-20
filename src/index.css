@@ -20,6 +20,9 @@ code {
 .text-color {
     color: dodgerblue;
 }
+.gap-right {
+    margin-right: 8px;
+}
 input,
 textarea {
     width: 360px;
