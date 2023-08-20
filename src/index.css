@@ -48,3 +48,20 @@ button {
     cursor: pointer;
     font-weight: bold;
 }
+table,
+td,
+th {
+    border: 1px solid;
+    padding: 8px;
+}
+table {
+    width: 75%;
+    border-collapse: collapse;
+    margin: auto;
+}
+td {
+    text-align: center;
+}
+.border-none {
+    border: none;
+}
